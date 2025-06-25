@@ -2,8 +2,6 @@
 ```
 Bruteforce attack, For educational purpose only
 ```
-## Find here a video on YouTube
-https://youtu.be/qIfGxDmRQIU
 
 ## Install Requirements (on Linux)
 ```
@@ -12,7 +10,7 @@ https://youtu.be/qIfGxDmRQIU
 
 ## Run commands one by one
 ```
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+>> git clone https://github.com/GyphonWebSec/Gryphon-Fb-BruteForce
 >> cd Facebook-BruteForce
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
@@ -29,9 +27,9 @@ https://youtu.be/qIfGxDmRQIU
 * Use 2F Authentication.
 * Make location based login(+browser based).
 
-## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
+## More in Hacking Repos...
+Like and Follow
 
 ~~~
-Happy Hacking Day !
+Enjoy!
 ~~~
