@@ -1,6 +1,6 @@
 # Facebook-BruteForce
 ```
-Bruteforce attack, For educational purpose only
+Bruteforce Attack, For educational purpose only
 ```
 
 ## Install Requirements (on Linux)
